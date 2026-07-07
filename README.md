@@ -22,7 +22,7 @@ Requires Python 3.10+.
 
 ## Usage
 
-*(Add a real snippet or a screenshot of the Gradio UI once there's something to show.)*
+<img width="1278" height="763" alt="Screenshot 2026-07-07 at 2 08 42 AM" src="https://github.com/user-attachments/assets/82693dff-9361-4411-83bf-076fda81325f" />
 
 ## Roadmap
 
